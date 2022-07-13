@@ -6,8 +6,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansinkutlucan/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cansinkutlucann@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@cansinkutlucann)
-<a href="(https://public.tableau.com/app/profile/cansin" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SofiaAcar" alt="SofiaAcar" /> </p>
+[![website](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png)](https://public.tableau.com/app/profile/cansin)
 
 ## 💻 Data Visualization
 
